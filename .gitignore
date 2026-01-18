@@ -1,0 +1,10 @@
+.pio
+.vscode/.browse.c.db
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/extensions.json
+*.elf
+*.bin
+*.hex
+*.map
+.DS_Store
